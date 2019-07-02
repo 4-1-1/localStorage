@@ -9,7 +9,7 @@ localStorage
 
 **使用方法**
 
-在head标签内引入storage.js即可。
+在head标签内引入storage.js即可。1111
 
 	<script src='storage.js'></script>
 **接口示例**
