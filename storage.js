@@ -213,7 +213,7 @@
 			return list;
 		},
 		length : LS.length
-	};
+	};吧
 	//如果有jQuery，则同样扩展到jQuery
 	if( window.jQuery ) window.jQuery.LS = window.LS;
 })(windo1w); 
